@@ -6,7 +6,7 @@
 
 #
 # 1. Cute Krabby versus Green Demons
-![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/tree/main/picts/2_250px.jpg)
+![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/picts/2_250px.jpg)
 ![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/tree/main/picts/3_250px.jpg)
 ![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/6_250px.jpg)
 ![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/4_250px.jpg)
