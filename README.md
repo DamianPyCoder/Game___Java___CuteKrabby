@@ -26,13 +26,13 @@ The code is in a privat repository
 ![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/picts/icono100.png)
 
 ### 1.3 Our Krabby
-![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/krabbyBig.png)
-![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/krabby.png)
+![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/picts/krabbyBig.png)
+![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/picts/krabby.png)
 
 
 ### 1.4 Enemies live and after die
-![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/enemigo.png)
-![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/calavera.png)
+![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/picts/enemigo.png)
+![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/picts/calavera.png)
 
 
 ### 1.5 Source of resources
