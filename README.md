@@ -16,14 +16,14 @@
 
 
 ### 1.1 APK
-[Download link](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/appCuteKrabby.apk)
+[Download link](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/appCuteKrabby.apk)
 
 ```diff
 The code is in a privat repository
 ``` 
 
 ### 1.2 Icon
-![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/icono100.png)
+![](https://github.com/DamianPyCoder/JavaGame___CuteKrabby/blob/main/picts/icono100.png)
 
 ### 1.3 Our Krabby
 ![](https://github.com/DamianPyCoder/Java__Games_x2__CuteKrabby_PixelFish/blob/main/CUTE_KRABBY/krabbyBig.png)
